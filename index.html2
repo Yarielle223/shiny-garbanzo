@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Documment</title>
+</head>
+<body>
+<h1>
+    SheCodes
+</h1>
+<ul>
+    <li>
+        <a href="https://www.shecodes.io/students" target="_blank">
+            Coders
+        </a>
+    </li>
+    <li>
+        <a href="https://www.shecodes.io/workshops" target="_blank">
+            Courses
+        </a>
+    </li>
+    <li>
+        <a href="https://www.shecodes.io/stories" target="_blank">
+            Stories
+        </a>
+    </li>
+</ul>
+<hr />
+<h2>
+    <h3>
+        <strong>
+            More Info
+        </strong>
+    </h3>
+    <img src="https://images.idgesg.net/images/article/2020/07/coding_and_data_overlay_laptop_and_tablet_user_programmer_engineer_analysis_information_by_delmaine_donson_gettyimages-1164885370_2400x1600-100851106-large.jpg?auto=webp&quality=85,70"
+     width="300" />
+</body> </html>
